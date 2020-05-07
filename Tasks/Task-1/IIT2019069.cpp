@@ -8,7 +8,7 @@ int main()
 {
     long long int l,r,i;//int can't store numbers of order 10^7
    
-    cin>>l>>r;
+    scanf("%d %d",&l,&r);
    
     long long int cnt=0;
     
