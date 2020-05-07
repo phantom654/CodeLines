@@ -33,6 +33,9 @@ int main()
     }
    
     cout<<cnt<<endl;
+<<<<<<< HEAD
     // for first commit
     // for 2nd commit
+=======
+>>>>>>> parent of 9f205c5... First commit
 }
